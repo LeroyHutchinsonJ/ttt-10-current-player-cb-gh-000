@@ -6,5 +6,5 @@ if(turn == "X" || turn == "O")
 end
 end
 
-return counter
+
 end

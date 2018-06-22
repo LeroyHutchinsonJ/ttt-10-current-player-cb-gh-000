@@ -1,6 +1,6 @@
 counter = 0
 def turn_count(board,counter)
-board.do each|xorO|
+board.each do|xorO|
 
 end
 

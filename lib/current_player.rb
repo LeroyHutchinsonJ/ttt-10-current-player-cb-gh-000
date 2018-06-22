@@ -1,10 +1,10 @@
 counter = 0
 def turn_count(counter)
+  
 board.each do |turn|
-  return current_player(counter)
-  counter = counter + 1
+  return counter
+  counter =+1
 end
-
 
 end
 

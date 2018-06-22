@@ -7,6 +7,11 @@ end
 
 end
 
-def current_player(turn)
+def current_player(counter)
+if(counter % 2 == 0)
+  return "X"
+else
+  return "0"
+end
 
 end

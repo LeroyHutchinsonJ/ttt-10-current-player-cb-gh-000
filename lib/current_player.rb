@@ -5,5 +5,6 @@ if(turn != " ")
   counter=counter + 1
 end
 end
+
 return counter
 end

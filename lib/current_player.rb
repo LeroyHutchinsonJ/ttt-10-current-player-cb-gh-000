@@ -1,7 +1,8 @@
 counter = 0
 def turn_count(board,counter)
 board.each do|xorO|
-
+counter+=1
+current_player(counter)
 end
 
 end
